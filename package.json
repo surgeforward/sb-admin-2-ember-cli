@@ -1,0 +1,30 @@
+{
+  "name": "sb-admin-2-cli",
+  "version": "0.1.1",
+  "description": "Include SB Admin 2 into an ember-cli application.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "bower install"
+  },
+  "keywords": [
+    "ember-addon",
+    "ember",
+    "ember-cli"
+  ],
+  "author": {
+    "name": "eibrahim"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/surgeforward/sb-admin-2-ember-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/surgeforward/sb-admin-2-ember-cli/issues"
+  },
+  "dependencies": {
+    "broccoli-merge-trees": "^0.1.4",
+    "broccoli-static-compiler": "^0.1.4"
+  },
+  "homepage": "https://github.com/surgeforward/sb-admin-2-ember-cli"
+}
