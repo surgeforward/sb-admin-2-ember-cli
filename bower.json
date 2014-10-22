@@ -1,0 +1,6 @@
+{
+  "name": "sb-admin-2-cli",
+  "dependencies": {
+    "sb-admin-v2": "*"
+  }
+}
