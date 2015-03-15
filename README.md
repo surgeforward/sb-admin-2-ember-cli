@@ -1,9 +1,9 @@
 An ember-cli add-on for the free bootstrap theme [http://startbootstrap.com/template-overviews/sb-admin-2/](http://startbootstrap.com/template-overviews/sb-admin-2/)
 
-** Install
+## Install
 * run `ember install:npm sb-admin-2-cli`
 
-** demo
+## Demo
 You can see a demo at:
 [https://sb-admin-ember-demo.firebaseapp.com/](https://sb-admin-ember-demo.firebaseapp.com/)
 
