@@ -86,6 +86,11 @@ EmberCLISbAdmin2.prototype.included = function included(app) {
   //import javascript files
   app.import(concatPath('bootstrap/dist/js/bootstrap.min.js'));
   app.import(concatPath('metisMenu/dist/jquery.metisMenu.js'));
+
+  app.import(concatPath('DataTables/media/js/jquery.dataTables.js'));
+  app.import(concatPath('sb-admin-v2/js/plugins/dataTables/dataTables.bootstrap.js'));
+
+
   app.import(concatPath('sb-admin-v2/js/sb-admin.js'));
 };
 
